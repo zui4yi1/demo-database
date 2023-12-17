@@ -11,5 +11,9 @@
   "license": "MIT",
   "files": [
     "demodata"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zui4yi1/demo-database.git"
+  }
 }
