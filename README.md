@@ -22,6 +22,6 @@ import { initDemoDataBase, DemoAPI } from "demo-database";
 ### 已有的 demo 数据
 
 - 用户列表: userinfos
-- 数据字典: 性别 gender, 擅长 skill, 爱好 hobby
+- 数据字典: 性别 gender, 擅长 skill, 爱好 hobby, 省市区 city, 民族 nation
 
 #### ！！！欢迎一起丰富本 demo 数据库！！！

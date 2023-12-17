@@ -1,6 +1,6 @@
 {
   "name": "demo-database",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一款基于localStorage设计的demo数据库。具有完善的api, 可模拟真实的数据库操作场景",
   "main": "index.js",
   "keywords": [
